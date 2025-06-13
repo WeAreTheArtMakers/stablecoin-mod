@@ -1,0 +1,9 @@
+{
+  "networkName": "BNB Smart Chain Testnet",
+  "rpcUrl": "https://data-seed-prebsc-1-s1.binance.org:8545/",
+  "chainId": 97,
+  "currencySymbol": "tBNB",
+  "blockExplorerUrl": "https://testnet.bscscan.com",
+  "stableTokenAddress": "YAYINLANDIKTAN_SONRA_GUNCELLE",
+  "stabilizerAddress": "YAYINLANDIKTAN_SONRA_GUNCELLE"
+}

@@ -1,0 +1,12 @@
+# Node paketleri
+node_modules/
+
+# Next.js / build klasörleri
+.next/
+out/
+
+# Ortam değişkenleri
+.env
+
+# IDE ayarları
+.DS_Store
