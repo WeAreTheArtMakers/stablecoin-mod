@@ -1,5 +1,8 @@
 # Algoritmik Stablecoin Projesi Kurulum ve Çalıştırma Rehberi
 
+<img src="https://wearetheartmakers.com/img/mUSD.png" alt="mUSD Logo" width="100" />
+
+
 Bu rehber, Algoritmik Stablecoin projesini sıfırdan kurmak, yapılandırmak, deploy etmek ve çalıştırmak için gereken tüm adımları içermektedir.
 
 ## 📌 Projeye Genel Bakış
